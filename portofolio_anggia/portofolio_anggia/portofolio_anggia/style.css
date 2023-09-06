@@ -1,0 +1,11 @@
+.jumbotron img {
+	border-radius: 100%;
+}
+
+section {
+	min-height: 300px;
+}
+
+.portofolio {
+	background-color: #eee;
+}
